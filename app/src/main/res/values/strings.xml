@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="action_popular">Populer</string>
+    <string name="action_highest_rate">Rating Tertinggi</string>
+    <string name="action_latest">Terbaru</string>
+    <string name="action_upcoming">Segera</string>
+    <string name="action_now_playing">Sedang Tayang</string>
+    <string name="action_about">Tentang</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_movieitem_list">MovieItems</string>
+    <string name="title_movieitem_detail"></string>
+    <string name="title_test_list">Tests</string>
+    <string name="title_test_detail">Test Detail</string>
+</resources>
